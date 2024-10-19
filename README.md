@@ -254,6 +254,10 @@ The button creates a list with one fish dish, one soup dish and the rest is what
 
 ![List.png](Images/List.png)
 
+A popup showing the food's description.
+
+![Food_description.png](Images/Food_description.png)
+
 This is the API root:
 
 ![API_root.png](Images/API_root.png)
